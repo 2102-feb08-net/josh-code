@@ -1,0 +1,8 @@
+#each line specifies a pattern
+#if any file or folder in the repo matches any of these patterns
+#git will ignore these files
+bin
+obj
+
+#if a file is /alredy tracked/ by git, gitignore will not by itself
+#   remove the file
