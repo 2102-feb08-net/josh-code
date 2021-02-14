@@ -1,0 +1,5 @@
+/Users/josh/Revature/josh-code/RPS-code/RPSgame/obj/Debug/net5.0/RPS-user.csprojAssemblyReference.cache
+/Users/josh/Revature/josh-code/RPS-code/RPSgame/obj/Debug/net5.0/RPS-user.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josh/Revature/josh-code/RPS-code/RPSgame/obj/Debug/net5.0/RPS-user.AssemblyInfoInputs.cache
+/Users/josh/Revature/josh-code/RPS-code/RPSgame/obj/Debug/net5.0/RPS-user.AssemblyInfo.cs
+/Users/josh/Revature/josh-code/RPS-code/RPSgame/obj/Debug/net5.0/RPS-user.csproj.CoreCompileInputs.cache

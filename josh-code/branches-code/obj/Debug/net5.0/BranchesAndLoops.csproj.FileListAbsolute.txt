@@ -1,0 +1,15 @@
+/Users/josh/Revature/josh-code/branches-code/bin/Debug/net5.0/BranchesAndLoops.deps.json
+/Users/josh/Revature/josh-code/branches-code/bin/Debug/net5.0/BranchesAndLoops.runtimeconfig.json
+/Users/josh/Revature/josh-code/branches-code/bin/Debug/net5.0/BranchesAndLoops.runtimeconfig.dev.json
+/Users/josh/Revature/josh-code/branches-code/bin/Debug/net5.0/BranchesAndLoops.dll
+/Users/josh/Revature/josh-code/branches-code/bin/Debug/net5.0/ref/BranchesAndLoops.dll
+/Users/josh/Revature/josh-code/branches-code/bin/Debug/net5.0/BranchesAndLoops.pdb
+/Users/josh/Revature/josh-code/branches-code/obj/Debug/net5.0/BranchesAndLoops.csprojAssemblyReference.cache
+/Users/josh/Revature/josh-code/branches-code/obj/Debug/net5.0/BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josh/Revature/josh-code/branches-code/obj/Debug/net5.0/BranchesAndLoops.AssemblyInfoInputs.cache
+/Users/josh/Revature/josh-code/branches-code/obj/Debug/net5.0/BranchesAndLoops.AssemblyInfo.cs
+/Users/josh/Revature/josh-code/branches-code/obj/Debug/net5.0/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/Users/josh/Revature/josh-code/branches-code/obj/Debug/net5.0/BranchesAndLoops.dll
+/Users/josh/Revature/josh-code/branches-code/obj/Debug/net5.0/ref/BranchesAndLoops.dll
+/Users/josh/Revature/josh-code/branches-code/obj/Debug/net5.0/BranchesAndLoops.pdb
+/Users/josh/Revature/josh-code/branches-code/obj/Debug/net5.0/BranchesAndLoops.genruntimeconfig.cache

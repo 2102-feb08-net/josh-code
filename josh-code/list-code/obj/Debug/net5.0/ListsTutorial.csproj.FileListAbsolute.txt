@@ -1,0 +1,15 @@
+/Users/josh/Revature/josh-code/list-code/bin/Debug/net5.0/ListsTutorial.deps.json
+/Users/josh/Revature/josh-code/list-code/bin/Debug/net5.0/ListsTutorial.runtimeconfig.json
+/Users/josh/Revature/josh-code/list-code/bin/Debug/net5.0/ListsTutorial.runtimeconfig.dev.json
+/Users/josh/Revature/josh-code/list-code/bin/Debug/net5.0/ListsTutorial.dll
+/Users/josh/Revature/josh-code/list-code/bin/Debug/net5.0/ref/ListsTutorial.dll
+/Users/josh/Revature/josh-code/list-code/bin/Debug/net5.0/ListsTutorial.pdb
+/Users/josh/Revature/josh-code/list-code/obj/Debug/net5.0/ListsTutorial.csprojAssemblyReference.cache
+/Users/josh/Revature/josh-code/list-code/obj/Debug/net5.0/ListsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josh/Revature/josh-code/list-code/obj/Debug/net5.0/ListsTutorial.AssemblyInfoInputs.cache
+/Users/josh/Revature/josh-code/list-code/obj/Debug/net5.0/ListsTutorial.AssemblyInfo.cs
+/Users/josh/Revature/josh-code/list-code/obj/Debug/net5.0/ListsTutorial.csproj.CoreCompileInputs.cache
+/Users/josh/Revature/josh-code/list-code/obj/Debug/net5.0/ListsTutorial.dll
+/Users/josh/Revature/josh-code/list-code/obj/Debug/net5.0/ref/ListsTutorial.dll
+/Users/josh/Revature/josh-code/list-code/obj/Debug/net5.0/ListsTutorial.pdb
+/Users/josh/Revature/josh-code/list-code/obj/Debug/net5.0/ListsTutorial.genruntimeconfig.cache

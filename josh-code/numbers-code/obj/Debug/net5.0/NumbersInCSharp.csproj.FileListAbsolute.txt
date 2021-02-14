@@ -1,0 +1,15 @@
+/Users/josh/Revature/josh-code/numbers-code/bin/Debug/net5.0/NumbersInCSharp.deps.json
+/Users/josh/Revature/josh-code/numbers-code/bin/Debug/net5.0/NumbersInCSharp.runtimeconfig.json
+/Users/josh/Revature/josh-code/numbers-code/bin/Debug/net5.0/NumbersInCSharp.runtimeconfig.dev.json
+/Users/josh/Revature/josh-code/numbers-code/bin/Debug/net5.0/NumbersInCSharp.dll
+/Users/josh/Revature/josh-code/numbers-code/bin/Debug/net5.0/ref/NumbersInCSharp.dll
+/Users/josh/Revature/josh-code/numbers-code/bin/Debug/net5.0/NumbersInCSharp.pdb
+/Users/josh/Revature/josh-code/numbers-code/obj/Debug/net5.0/NumbersInCSharp.csprojAssemblyReference.cache
+/Users/josh/Revature/josh-code/numbers-code/obj/Debug/net5.0/NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josh/Revature/josh-code/numbers-code/obj/Debug/net5.0/NumbersInCSharp.AssemblyInfoInputs.cache
+/Users/josh/Revature/josh-code/numbers-code/obj/Debug/net5.0/NumbersInCSharp.AssemblyInfo.cs
+/Users/josh/Revature/josh-code/numbers-code/obj/Debug/net5.0/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/Users/josh/Revature/josh-code/numbers-code/obj/Debug/net5.0/NumbersInCSharp.dll
+/Users/josh/Revature/josh-code/numbers-code/obj/Debug/net5.0/ref/NumbersInCSharp.dll
+/Users/josh/Revature/josh-code/numbers-code/obj/Debug/net5.0/NumbersInCSharp.pdb
+/Users/josh/Revature/josh-code/numbers-code/obj/Debug/net5.0/NumbersInCSharp.genruntimeconfig.cache

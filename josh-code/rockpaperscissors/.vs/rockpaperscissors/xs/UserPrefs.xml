@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{FEFA9BCE-BC69-4262-BC31-F5C99B1C886A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Computer.cs">
+    <Files>
+      <File FileName="src/Computer.cs" Line="5" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rockpaperscissors" expanded="True">
+            <Node name="rockpaperscissors" expanded="True">
+              <Node name="src" expanded="True">
+                <Node name="Computer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="rockpaperscissors" expanded="True" selected="True">
+            <Node name="rockpaperscissors" expanded="True">
+              <Node name="rockpaperscissors" expanded="True">
+                <Node name="rockpaperscissors.Computer" expanded="True" />
+              </Node>
+              <Node name="testing" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.rockpaperscissors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
