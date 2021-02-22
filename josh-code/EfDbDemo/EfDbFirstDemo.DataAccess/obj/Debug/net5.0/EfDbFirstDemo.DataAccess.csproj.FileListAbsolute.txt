@@ -1,0 +1,15 @@
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/bin/Debug/net5.0/EfDbFirstDemo.DataAccess.deps.json
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/bin/Debug/net5.0/EfDbFirstDemo.DataAccess.runtimeconfig.json
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/bin/Debug/net5.0/EfDbFirstDemo.DataAccess.runtimeconfig.dev.json
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/bin/Debug/net5.0/EfDbFirstDemo.DataAccess.dll
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/bin/Debug/net5.0/ref/EfDbFirstDemo.DataAccess.dll
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/bin/Debug/net5.0/EfDbFirstDemo.DataAccess.pdb
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/obj/Debug/net5.0/EfDbFirstDemo.DataAccess.csprojAssemblyReference.cache
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/obj/Debug/net5.0/EfDbFirstDemo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/obj/Debug/net5.0/EfDbFirstDemo.DataAccess.AssemblyInfoInputs.cache
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/obj/Debug/net5.0/EfDbFirstDemo.DataAccess.AssemblyInfo.cs
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/obj/Debug/net5.0/EfDbFirstDemo.DataAccess.csproj.CoreCompileInputs.cache
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/obj/Debug/net5.0/EfDbFirstDemo.DataAccess.dll
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/obj/Debug/net5.0/ref/EfDbFirstDemo.DataAccess.dll
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/obj/Debug/net5.0/EfDbFirstDemo.DataAccess.pdb
+/Users/josh/Revature/josh-code/EfDbDemo/EfDbFirstDemo.DataAccess/obj/Debug/net5.0/EfDbFirstDemo.DataAccess.genruntimeconfig.cache

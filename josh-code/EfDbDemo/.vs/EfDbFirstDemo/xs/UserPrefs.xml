@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{95331453-16C7-4F04-AAD5-41F16D73C0B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EfDbFirstDemo.DataAccess/ChinookContext.cs">
+    <Files>
+      <File FileName="EfDbFirstDemo.ConsoleApp/Program.cs" Line="32" Column="22" />
+      <File FileName="EfDbFirstDemo.DataAccess/ChinookContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EfDbFirstDemo" expanded="True">
+            <Node name="EfDbFirstDemo.ConsoleApp" expanded="True" />
+            <Node name="EfDbFirstDemo.DataAccess" expanded="True">
+              <Node name="ChinookContext.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EfDbFirstDemo.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
