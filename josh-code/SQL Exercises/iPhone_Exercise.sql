@@ -68,6 +68,14 @@ WHERE Orders.CustomerID = (SELECT Customers.CustomerID
                             AND Customers.LastName = 'Smith');
 
 -- Exercise 5
-
+-- Useful Sum example
+SELECT p.ProductID, SUM(p.ProductPrice)
+FROM Orders AS o
+INNER JOIN Products AS p
+ON p.ProductID = o.ProductID
+GROUP BY o.ProductID
 
 -- Exercise 6
+UPDATE Products
+SET ProductPrice = '250'
+WHERE ProductName = 'iPhone';

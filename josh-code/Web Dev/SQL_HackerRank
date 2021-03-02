@@ -1,0 +1,16 @@
+-- 5 Join answer for HackerRank
+SELECT c.*, COUNT(DISTINCT lm.lead_manager_code), COUNT(DISTINCT sm.senior_manager_code), COUNT(DISTINCT m.manager_code), COUNT(DISTINCT e.employee_code) 
+FROM COMPANY as c 
+    LEFT JOIN Lead_Manager as lm ON c.company_code = lm.company_code 
+    LEFT JOIN Senior_Manager as sm on lm.company_code = sm.company_code 
+    LEFT JOIN Manager as m on sm.company_code = m.company_code 
+    LEFT JOIN Employee as e on m.company_code = e.company_code 
+GROUP BY c.company_code, c.founder 
+ORDER BY c.company_code;
+
+-- 2 Join with group by
+SELECT c.company_code, c.founder, COUNT(distinct e.lead_manager_code), COUNT(distinct e.senior_manager_code), COUNT(distinct e.manager_code), COUNT(distinct e.employee_code) 
+FROM Company c 
+    INNER JOIN Employee e ON c.company_code = e.company_code 
+GROUP BY c.founder, c.company_code 
+ORDER BY c.company_code;
